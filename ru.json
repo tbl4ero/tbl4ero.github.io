@@ -1,0 +1,82 @@
+{
+    "language": "ru",
+    "header": {
+        "about": "Обо мне",
+        "projects": "Проекты",
+        "contact": "Связаться"
+    },
+    "start": {
+        "partOne": "Привет, я",
+        "name": "Эрик",
+        "partTwo": "и я",
+        "words": ["веб", "разработку"],
+        "buttons": {
+            "github": "GitHub",
+            "contact": "Связаться"
+        }
+    },
+    "about": {
+        "header": "Немного обо мне",
+        "text": "Я просто позитивный молодой парень, любимым занятием которого является перенос идей из жизни в код. Обожаю пробовать и изучать что-то новое, улучшать и оттачивать все уже существующее."
+    },
+    "projects": {
+        "header": "Проекты",
+        "projects": [
+            {
+                "name": "TRANSITPLUS",
+                "preview": "/portfolio/transitplus.png",
+                "year": "2018",
+                "description": "Старый сайт для компании, занимающейся грузоперевозками из Китая.",
+                "actions": {
+                    "sources": "",
+                    "onRequest": "Код по запросу",
+                    "demo": {
+                        "link": "https://www.transitplus.ru/",
+                        "text": "Демо"
+                    }
+                }
+            },
+            {
+                "name": "NOTER",
+                "year": "2019",
+                "preview": "/portfolio/noter.png",
+                "description": "Mobile-first простое и масштабируемо приложение для хранения заметок, с открытым исходным кодом, служащим как руководство для создания production ready SPA приложений.",
+                "actions": {
+                    "sources": {
+                        "link": "https://github.com/tblero/noter",
+                        "text": "Исходный код"
+                    },
+                    "onRequest": "",
+                    "demo": {
+                        "link": "note-r.herokuapp.com",
+                        "text": "Демо"
+                     }
+                }
+            },
+            {
+                "name": "Система назначения рейтинговой стипендии БГПУ",
+                "year": "2019",
+                "preview": "/portfolio/rate.png",
+                "description": "Система контроля заявок и подсчета баллов для назначения рейтинговой стипендии студентам БГПУ.",
+                "actions": {
+                    "sources": "",
+                    "onRequest": "Код по запросу",
+                    "demo": ""
+                }
+            }
+        ]
+    },
+    "contact": {
+        "header": "Связаться со мной!",
+        "nameInput": "Имя",
+        "emailInput": "E-Mail",
+        "textInput": "Ваше сообщение",
+        "contactButton": "Отправить",
+        "done": "Отправлено!"
+    },
+    "notFound": {
+        "img": "/portfolio/404.png",
+        "header": "Страница не найдена",
+        "link": "На главную"
+    }
+}

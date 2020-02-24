@@ -1,0 +1,82 @@
+{
+    "language": "en",
+    "header": {
+        "about": "About",
+        "projects": "Projects",
+        "contact": "Contact"
+    },
+    "start": {
+        "partOne": "Hi, I'm",
+        "name": "Erik",
+        "partTwo": "and I",
+        "words": ["web", "programming"],
+        "buttons": {
+            "github": "GitHub",
+            "contact": "Contact"
+        }
+    },
+    "about": {
+        "header": "About me",
+        "text": "I’m just a nice guy who’s favorite thing in the world is converting real life ideas into code which also happens to be my main occupation. I love learning and I’m always down to try something new especially when it comes to webdev."
+    },
+    "projects": {
+        "header": "Projects",
+        "projects": [
+            {
+                "name": "TRANSITPLUS",
+                "year": "2018",
+                "preview": "/portfolio/transitplus.png",
+                "description": "Made the old website for a good transporting company.",
+                "actions": {
+                    "sources": "",
+                    "onRequest": "Sources on request",
+                    "demo": {
+                        "link": "https://www.transitplus.ru/",
+                        "text": "Demo"
+                    }
+                }
+            },
+            {
+                "name": "NOTER",
+                "year": "2019",
+                "preview": "/portfolio/noter.png",
+                "description": "Mobile-first, simple and scalable notekeeping solution, which's source code act as a guide for production ready REST-beacked SPAs.",
+                "actions": {
+                    "sources": {
+                        "link": "https://github.com/tbl4ero/noter",
+                        "text": "Source code"
+                    },
+                    "onRequest": "",
+                    "demo": {
+                       "link": "note-r.herokuapp.com",
+                       "text": "Demo"
+                    }
+                }
+            },
+            {
+                "name": "Scholarship application processing system",
+                "year": "2019",
+                "preview": "/portfolio/rate.png",
+                "description": "A software for a local university that recieves all the scholarship applications and let's the ",
+                "actions": {
+                    "sources": "",
+                    "onRequest": "Sources on request",
+                    "demo": ""
+                }
+            }
+        ]
+    },
+    "contact": {
+        "header": "Let's get in touch!",
+        "nameInput": "Your name",
+        "emailInput": "Your e-mail",
+        "textInput": "Message",
+        "contactButton": "Contact",
+        "done": "Message sent!"
+    },
+    "notFound": {
+        "img": "/portfolio/404.png",
+        "header": "Page not found",
+        "link": "To the portfolio"
+    }
+}
