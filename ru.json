@@ -24,7 +24,7 @@
         "projects": [
             {
                 "name": "TRANSITPLUS",
-                "preview": "/portfolio/transitplus.png",
+                "preview": "/transitplus.png",
                 "year": "2018",
                 "description": "Старый сайт для компании, занимающейся грузоперевозками из Китая.",
                 "actions": {
@@ -39,7 +39,7 @@
             {
                 "name": "NOTER",
                 "year": "2019",
-                "preview": "/portfolio/noter.png",
+                "preview": "/noter.png",
                 "description": "Mobile-first простое и масштабируемо приложение для хранения заметок, с открытым исходным кодом, служащим как руководство для создания production ready SPA приложений.",
                 "actions": {
                     "sources": {
@@ -56,7 +56,7 @@
             {
                 "name": "Система назначения рейтинговой стипендии БГПУ",
                 "year": "2019",
-                "preview": "/portfolio/rate.png",
+                "preview": "/rate.png",
                 "description": "Система контроля заявок и подсчета баллов для назначения рейтинговой стипендии студентам БГПУ.",
                 "actions": {
                     "sources": "",
@@ -75,7 +75,7 @@
         "done": "Отправлено!"
     },
     "notFound": {
-        "img": "/portfolio/404.png",
+        "img": "/404.png",
         "header": "Страница не найдена",
         "link": "На главную"
     }
