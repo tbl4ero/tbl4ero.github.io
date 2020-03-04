@@ -9,7 +9,7 @@
         "partOne": "Привет, я",
         "name": "Эрик",
         "partTwo": "и я",
-        "words": ["веб", "разработку"],
+        "words": ["веб", "JavaScript", "программирование"],
         "buttons": {
             "github": "GitHub",
             "contact": "Связаться"
